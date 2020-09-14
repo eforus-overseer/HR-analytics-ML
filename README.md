@@ -11,6 +11,8 @@ https://datahack.analyticsvidhya.com/contest/wns-analytics-hackathon-2018-1/#Lea
 Presentation Link:
 https://www.beautiful.ai/player/-MBOSxtCz_OE2QfAwkCi 
 
+![slides](https://github.com/efipaka/HR-analytics-ML/blob/master/HR%20present.jpeg)
+
 ![HR1](https://github.com/efipaka/HR-analytics-ML/blob/master/HR1.jpg)
 
 ![HR2](https://github.com/efipaka/HR-analytics-ML/blob/master/HR2.jpg)
