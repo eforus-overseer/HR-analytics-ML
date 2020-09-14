@@ -4,6 +4,12 @@ Predicting company's HR jobs promotions using various ML algorithms
 Presentation Link:
 https://www.beautiful.ai/player/-MBOSxtCz_OE2QfAwkCi 
 
+
+
+![slides](https://github.com/efipaka/HR-analytics-ML/blob/master/HR%20present.jpeg)
+
+
+
 article about the subject:
 https://towardsdatascience.com/how-to-save-hrs-time-with-machine-learning-b6f2226b789d
 
