@@ -17,3 +17,10 @@ https://www.beautiful.ai/player/-MBOSxtCz_OE2QfAwkCi
 
 ![HR2](https://github.com/efipaka/HR-analytics-ML/blob/master/HR2.jpg)
 
+---
+
+<!-- demo-lab:start -->
+## Explore this project
+
+[Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/hr-analytics-ml/) — Explore the project, its method, and available demos or original artifacts.
+<!-- demo-lab:end -->
